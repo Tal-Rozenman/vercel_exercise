@@ -1,7 +1,7 @@
 export default function Answer() {
 	return (
 		<>
-			<h1 className="text-3xl font-bold mb-6">8. A customer is creating a site and would like their project not to be indexed by search engines. Please write a reply to the customer. Feel free to add any information about your decision making process after the reply. 
+			<h1 className="text-2xl font-bold mb-6">8. A customer is creating a site and would like their project not to be indexed by search engines. Please write a reply to the customer. Feel free to add any information about your decision making process after the reply. 
 			</h1>
 			<p>
 				robots.txt

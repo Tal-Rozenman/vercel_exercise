@@ -1,7 +1,7 @@
 export default function Answer() {
 	return (
     <div>
-        <h1 className="text-3xl font-bold mb-6">1. From this <a href="https://gist.github.com/Pieparker/b04a4e9ff82ba949e5db9d5b0e9d89e8">list</a>, rank your 5 most favourite and 5 least favourite support tasks. Provide a brief explanation for each. </h1>
+        <h1 className="text-2xl font-bold mb-6">1. From this <a href="https://gist.github.com/Pieparker/b04a4e9ff82ba949e5db9d5b0e9d89e8">list</a>, rank your 5 most favourite and 5 least favourite support tasks. Provide a brief explanation for each. </h1>
         <h2 className="text-xl font-semibold mb-4">Favorite Tasks</h2>
         <ol className="list-decimal ml-6 mb-6">
             <li className="mb-2">Work with the product team to develop a new feature based on feedback from customers: </li>

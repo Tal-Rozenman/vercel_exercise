@@ -1,7 +1,7 @@
 export default function Answer() {
 	return (
 		<>
-			<h1 className="text-3xl font-bold mb-6">5. Imagine a customer writes in requesting help with a build issue on a framework or technology that you&apos;ve not seen before. How would you begin troubleshooting this and what questions would you ask the customer to understand the situation better?</h1>
+			<h1 className="text-2xl font-bold mb-6">5. Imagine a customer writes in requesting help with a build issue on a framework or technology that you&apos;ve not seen before. How would you begin troubleshooting this and what questions would you ask the customer to understand the situation better?</h1>
 
 			<p className="mb-2">I would start by asking the customer to describe the issue in detail, including any error messages or logs they are seeing to help in understanding the exact nature of the problem.</p>
 

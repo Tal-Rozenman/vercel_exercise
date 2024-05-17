@@ -5,7 +5,7 @@ export default function Answer() {
 
 			<p className="mb-2">Hi Customer,</p>
 
-			<p className="mb-2">I truly understand how frustrating it can be when you&apos;re facing issues, especially after putting in hours of work. I want to assure you that we&apos;re on this together, and I&apos;m here to help you get to the bottom of this as swiftly as possible.</p>
+			<p className="mb-2">I  understand your frustration when you&apos;re facing build issues. I want to assure you that I&apos;m here to help you get to the bottom of this as swiftly as possible.</p>
 
 			<p className="mb-2">I&apos;m currently checking our system for any platform-wide issues that could be impacting your build. In the meantime, could you please provide the build logs and the specific error message? Also, if you could point out the part of your code where the build seems to fail, that would be immensely helpful.</p>
 

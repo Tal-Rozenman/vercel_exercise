@@ -19,7 +19,7 @@ export default function RootLayout({
       <body className={inter.className}>
         <div className="flex justify-center h-screen">
         <div className="p-12 max-w-5xl mx-auto">
-          <nav className="text-3xl font-semibold flex justify-center gap-12 mb-10">
+          <nav className="text-3xl font-semibold flex justify-center gap-8 mb-10">
             <a href="/">Vercel Exercises</a>
             <a href="https://www.linkedin.com/in/tal-rozenman-0b7315a1/">Tal Rozenman</a>
           </nav>

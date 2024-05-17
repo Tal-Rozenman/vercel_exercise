@@ -9,7 +9,7 @@ export default function Answer() {
 
             <p className="mb-2">To redirect from the /blog path to https://example.com, you&apos;ll need to update your next.config.js file with a redirect configuration. Here&apos;s an example of how you can set it up:</p>
 
-            <p className="mb-2"><img src="/carbon.svg"></img></p>
+            <p className="mb-2"><img className="w-full h-auto" src="/carbon.svg"></img></p>
 
             <p className="mb-2">For more detailed instructions and options, please refer to the <u><a href="https://nextjs.org/docs/api-reference/next.config.js/redirects">Redirects documentation</a></u> in the Next.js routing guide</p>
             

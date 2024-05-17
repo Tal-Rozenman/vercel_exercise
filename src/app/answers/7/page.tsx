@@ -11,9 +11,7 @@ export default function Answer() {
 
             <p className="mb-2"><img src="/carbon.svg"></img></p>
 
-            <p className="mb-2">For more detailed instructions and options, please refer to the <u><a href="https://nextjs.org/docs/api-reference/next.config.js/redirects">Redirects documentation</a></u> in the Next.js routing guide, linked below.</p>
-            
-            <u><p className="mb-2"><a href="https://nextjs.org/docs/api-reference/next.config.js/redirects">https://nextjs.org/docs/api-reference/next.config.js/redirects</a></p></u>
+            <p className="mb-2">For more detailed instructions and options, please refer to the <u><a href="https://nextjs.org/docs/api-reference/next.config.js/redirects">Redirects documentation</a></u> in the Next.js routing guide</p>
             
             <p className="mb-2">Please let us know if you need any further assistance.</p>
 

@@ -16,9 +16,9 @@ export default function Answer() {
 
 			<p className="mb-2">This will tell most web crawlers not to index any pages on your site. For more detailed instructions and best practices, you can refer to the <u><a href="https://developers.google.com/search/docs/crawling-indexing/robots/create-robots-txt">Google developer documentation</a></u> on creating and submitting a robots.txt file.</p>
 
-			<p className="mb-2">Additionally, to block the indexing of individual pages, you can include a <strong>noindex</strong> meta tag in the HTML of each page you want to block. Here's how you can add it to the <code>&lt;head&gt;</code> section of your pages:</p>
+			<p className="mb-2">Additionally, to block the indexing of individual pages, you can include a <strong>noindex</strong> meta tag in the HTML of each page you want to block. Here&apos;s how you can add it to the <code>&lt;head&gt;</code> section of your pages:</p>
 
-			<pre className="mb-2"><code>&lt;meta name="robots" content="noindex"&gt;</code></pre>
+			<pre className="mb-2"><code>&lt;meta name=&quot;robots&quot; content=&quot;noindex&quot;&gt;</code></pre>
 
 			<p className="mb-2">For a comprehensive guide on how to implement the <strong>noindex</strong> directive, please refer to the <u><a href="https://developers.google.com/search/docs/crawling-indexing/block-indexing">Google developer documentation</a></u> on blocking search indexing with noindex. This documentation provides detailed instructions on how to use the <strong>noindex</strong> rule set with either a <code>&lt;meta&gt;</code> tag or HTTP response header to prevent content from being indexed by search engines like Google.</p>
 

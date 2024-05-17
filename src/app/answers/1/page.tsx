@@ -6,7 +6,7 @@ export default function Answer() {
         <ol className="list-decimal ml-6 mb-6">
             <li className="mb-2">Work with the product team to develop a new feature based on feedback from customers: </li>
 			<ul className="list-disc ml-6 mb-2">
-            	<li>Throughout previous roles I've always found joy in optimizing and improving product or workflow for my team and for customers. I find joy in sitting with customers and discussing their day to day workflow and seeing how I could improve it for them.</li>
+            	<li>Throughout previous roles I&apos;ve always found joy in optimizing and improving product or workflow for my team and for customers. I find joy in sitting with customers and discussing their day to day workflow and seeing how I could improve it for them.</li>
         	</ul>
             <li className="mb-2">Create video tutorials to help teach users a specific feature or use case</li>
 			<ul className="list-disc ml-6 mb-2">
@@ -40,9 +40,9 @@ export default function Answer() {
 			<ul className="list-disc ml-6 mb-2">
             	<li>Finding the right person can be very time consuming and often comes at a cost of other work obligations suffering.</li>
         	</ul>
-            <li className="mb-2">Dig through logs to troubleshoot a customer's broken project</li>
+            <li className="mb-2">Dig through logs to troubleshoot a customer&apos;s broken project</li>
 			<ul className="list-disc ml-6 mb-2">
-            	<li>While obviosuly this is an essnetial tool to diagnosing a customers problem it can occasionally be a little confusing and especially when you are not familair with the customer's workflow.</li>
+            	<li>While obviosuly this is an essnetial tool to diagnosing a customers problem it can occasionally be a little confusing and especially when you are not familair with the customer&apos;s workflow.</li>
         	</ul>
             <li className="mb-2">Help resolve billing issues for customers</li>
 			<ul className="list-disc ml-6 mb-2">

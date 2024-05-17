@@ -16,7 +16,7 @@ export default function Answer() {
 			<p className="mb-6">Here is an example response I could write to the customer:</p>
 
 
-			<p className="mb-2">&quot;Hi There,</p>
+			<p className="mb-2">&quot;Hi Customer,</p>
 			
 			<p className="mb-2">Thanks for reaching out about the build issue with the Framework/Technology. To help you swiftly, we need some details: the exact error messages or logs you are encountering, the version of the Framework/Technology you are using, your project&apos;s dependency list, whether the issue is on your local machine or during Vercel deployment, and any recent changes to your project. If you could also provide a link to a repository or steps to reproduce the issue, that would be very helpful. We&apos;ll look into this and get back to you as soon as possible.</p>
   						

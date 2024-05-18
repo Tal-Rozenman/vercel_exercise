@@ -10,7 +10,7 @@ export default function Answer() {
 
 			<p className="mb-2">All these are minor gripes at the end of the day, and I will say I think this was one of the most interesting technical exercises I have come across.</p>
 
-			<p className="mb-2">Thank you for the opportunity, and I&apos;m looking forward to hearing from you :)</p>
+			<p className="mb-2">Thank you for the opportunity, and I&apos;m looking forward to hearing from you. :)</p>
 		</>
 	)
 }
